@@ -142,6 +142,8 @@ exit
 
 REM
 
+3. Its a batch file so save it as whateveruwant.bat
+
 # Warning
 1. dont forget to remove the spaces of the code when u are in the notepad, otherwise it wont work
 
